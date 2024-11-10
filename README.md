@@ -12,7 +12,7 @@
  Ananya Deepthi, 
  Kalipu Manasa, 
  Venkata Pranavi, 
- Kotra Jahnvi, 
+ Kotra Jahnavi, 
  Gopika Saranya 
  
 
