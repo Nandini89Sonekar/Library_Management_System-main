@@ -8,11 +8,11 @@
  4. Server: Apache Tomcat Server
 
 # Team Members
- Nandini Sonekkar
- Ananya Deepthi
- Kalipu Manasa
- Venkata Pranavi
- Kotra Jahnvi
- Gopika Saranya
+ Nandini Sonekar, 
+ Ananya Deepthi, 
+ Kalipu Manasa, 
+ Venkata Pranavi, 
+ Kotra Jahnvi, 
+ Gopika Saranya, 
  
 
