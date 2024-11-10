@@ -13,6 +13,6 @@
  Kalipu Manasa, 
  Venkata Pranavi, 
  Kotra Jahnvi, 
- Gopika Saranya, 
+ Gopika Saranya 
  
 
